@@ -16,6 +16,13 @@
 # Môi trường cài đặt, sử dụng
 Đồ án này được thực hiện trên môi trường Google Colab nhằm giúp dễ dàng chia sẻ và sử dụng.
 
+---
+# Tổ chức github
+## Files
+- `kaggle.ipynb`: notebook chính dùng để báo cáo.<br>
+- `baitaplon.docx`: báo cáo theo định dạng docx.<br>
+- `slide.pdf`: file báo cáo đồ án chính thức của nhóm.<br>
+
 # Tham khảo
 [1]. [House Prices - Advanced Regression Techniques | Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
